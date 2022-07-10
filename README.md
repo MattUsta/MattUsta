@@ -1,4 +1,7 @@
 ### Hi there 👋
+This is an extension of my resume. It is essentially evidence of the projects I've worked on. I showcase my creative, technical skills, approach to effectively analyzing data and drawing insights, and ability to communicate the outcome to technical and cross-functional audiences.
+
+Feel free to reach out with comments or questions!
 
 <!--
 **MattUsta/MattUsta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
