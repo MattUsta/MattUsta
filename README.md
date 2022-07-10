@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there,
 This is an extension of my resume. It is essentially evidence of the projects I've worked on. I showcase my creative, technical skills, approach to effectively analyzing data and drawing insights, and ability to communicate the outcome to technical and cross-functional audiences.
 
 Feel free to reach me out with comments or questions!
